@@ -1,4 +1,4 @@
-# Simple html to read more easily some comics made by fans
+# Simple pages to read more easily some comics
 
 Hosted on github pages:
-[placeholder](https://www.github.com/)
+[Click here](https://maodoban.github.io/web-hq-ow/)
